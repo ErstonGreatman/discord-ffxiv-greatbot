@@ -10,6 +10,10 @@ Erston's Greatbot (tentatively-named) is a bot for Discord to support FFXIV role
 - Fashion Report - Fetches the latest Kaiyoko Star Fashion Report reddit post (!fashionreport)
 - Dice Roller - Rolls dice using a standard d20 formula with +- modifiers (!roll 1d20+3-2)
 
+### Planning
+What are we doing with this? See our Trello board here: [https://trello.com/b/gTzhNLih/greatbot](https://trello.com/b/gTzhNLih/greatbot)
+
+## Dev Stuff
 ### Environment Variables
 You'll need the following environment variables as shown in the .env.example
 ```
@@ -34,3 +38,8 @@ There are currently 4 package.json commands that you can run using `npm run` or 
 - `start` - Starts the project. You must have built at least once
 - `watch` - Starts the Typescript compiler with a watch added. It will recompile when you save changes
 - `test` - Runs unit tests... when I write some :|
+
+### Discord Bot Invite
+For your own bot, substitute the `<client_id>` for your own minus the `<>`: https://discordapp.com/oauth2/authorize?&client_id=<client_id>&scope=bot&permissions=268880960
+
+For example: the URL to invite this Discord bot is: [https://discordapp.com/oauth2/authorize?&client_id=724457896858877983&scope=bot&permissions=268880960](https://discordapp.com/oauth2/authorize?&client_id=724457896858877983&scope=bot&permissions=268880960)
