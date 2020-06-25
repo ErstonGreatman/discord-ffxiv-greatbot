@@ -19,10 +19,8 @@
     "@types/mocha": "^7.0.2",
     "@types/node": "^14.0.13",
     "@types/ramda": "^0.27.6",
-    "@types/winston": "^2.4.4",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
-    "ts-mockito": "^2.6.1",
     "ts-node": "^8.10.2"
   },
   "scripts": {
