@@ -1,0 +1,1 @@
+worker: yarn compile-start
