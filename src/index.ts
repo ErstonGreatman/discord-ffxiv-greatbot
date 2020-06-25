@@ -22,7 +22,7 @@ const plugins = [
 ];
 
 // Initialize Greatbot!
-const bot = new Greatbot(new Client(), process.env.TOKEN);
+const bot = new Greatbot(new Client(), process.env.DISCORD_TOKEN);
 
 bot.listen().then(() => {
   logger.info('Greatbot connected!');
