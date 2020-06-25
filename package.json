@@ -25,7 +25,7 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "compile-start": "tsc -p tsconfig.json && yarn start",
+    "compile-start": "tsc -p tsconfig.json --traceResolution && yarn start",
     "watch": "tsc -p tsconfig.json -w",
     "test": "mocha -r ts-node/register \"tests/**/*.spec.ts\""
   },
