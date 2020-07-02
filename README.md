@@ -1,4 +1,4 @@
-# Erston's Greatbot
+# HaurcheBot
 ## A Discord Bot for FFXIV Roleplayers
 ### haurchebot-ffxiv-discord
 
