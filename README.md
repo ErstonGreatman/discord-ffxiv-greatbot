@@ -1,9 +1,9 @@
 # Erston's Greatbot
 ## A Discord Bot for FFXIV Roleplayers
-### discord-ffxiv-greatbot
+### haurchebot-ffxiv-discord
 
 ### What is this?
-Erston's Greatbot (tentatively-named) is a bot for Discord to support FFXIV roleplayers. It currently has basic data-fetching features but is planned to include support for RP resources such as linking Lodestone profiles, carrd.co/RefSheet integration and more.
+HaurcheBot is a bot for Discord to support FFXIV roleplayers. It currently has basic data-fetching features but is planned to include support for RP resources such as linking Lodestone profiles, carrd.co/RefSheet integration and more.
 
 ### Current Plugins
 - World Status - shows online/offline status of realm. (!worldstatus or !worldstatus <realm>)
